@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/saravanan1423/weighbridge_automation/releases/download/v1.0.2/desktop.zip",
+  "sha256": "D5348124A0903E86AF127D0123C9C702BDC8374E820A0CCF4041D6CC927C4A47",
+  "notes": "Initial updater-enabled release."
+}
